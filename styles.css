@@ -1,0 +1,28 @@
+#shopping-cart {
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+#cart-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#cart-table th, #cart-table td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+#cart-footer {
+  text-align: right;
+}
+
+#subtotal, #tax, #total {
+  font-weight: bold;
+}
+
+#checkout-button {
+  margin-top: 10px;
+}
